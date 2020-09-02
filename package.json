@@ -1,0 +1,12 @@
+{
+    "name": "odoo_json_rpc",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "odoo_json_rpc.json",
+            "credentialsFile": "odoo_json_rpc_cred.json"
+        }
+    }
+}
